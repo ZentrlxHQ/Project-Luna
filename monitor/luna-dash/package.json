@@ -1,0 +1,10 @@
+{
+  "name": "luna-dash",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Live dashboard: spike raster + 3D limb trace for Project Luna",
+  "scripts": {
+    "dev": "echo 'TODO: wire up dev server (e.g. Vite) for the dashboard'",
+    "build": "echo 'TODO: build step'"
+  }
+}

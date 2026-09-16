@@ -1,0 +1,5 @@
+numpy
+pyyaml
+pyserial
+h5py
+# add your GPU sim deps (cupy / torch / etc.) depending on lif_engine backend

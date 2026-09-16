@@ -1,0 +1,12 @@
+# Region map for MaleCNS v1.0
+# Maps neuron ID ranges / labels to functional regions.
+regions:
+  optic_lobes:
+    approx_neuron_count: 50000
+    description: Visual processing, left + right optic lobes
+  central_brain:
+    approx_neuron_count: 40000
+    description: Central complex, mushroom body, sensory integration
+  ventral_nerve_cord:
+    approx_neuron_count: 76000
+    description: Motor control circuitry, leg + wing pre-motor neurons

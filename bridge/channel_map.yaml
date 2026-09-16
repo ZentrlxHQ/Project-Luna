@@ -1,0 +1,12 @@
+# Maps specific VNC motor neuron IDs / sensory input channels to
+# physical robot I/O. Fill in real neuron IDs from your connectome
+# region export.
+sensory_inputs:
+  camera: []       # photoreceptor neuron IDs
+  imu_accel: []     # mechanosensory neuron IDs
+  imu_gyro: []
+motor_outputs:
+  leg_front_left: []
+  leg_front_right: []
+  leg_rear_left: []
+  leg_rear_right: []
